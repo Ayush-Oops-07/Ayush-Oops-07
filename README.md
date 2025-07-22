@@ -1,4 +1,4 @@
-![logo](https://github.com/Ayush-07-cmd/Ayush-07-cmd/blob/main/Black%20and%20White%20Simple%20Art%20Director%20LinkedIn%20Banner.png)
+![logo](https://github.com/Ayush-Oops-07/Ayush-Oops-07/blob/main/Github.png)
 
 <h1 align="center">Hi 👋, I'm Ayush Kumar Sharma</h1>
 <h3 align="center">🎓 BCA Final-Year Student | 🚀 DevOps & DevSecOps Enthusiast | ☁️ Exploring Cloud & Infrastructure Security</h3>
