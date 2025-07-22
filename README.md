@@ -74,15 +74,15 @@ I aspire to become a **DevOps & DevSecOps Engineer** who can create robust, secu
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Ayush-07-cmd&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Ayush-07-cmd&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-07-cmd&theme=dark&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Ayush-Oops-07&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Ayush-Oops-07&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Oops-07&theme=dark&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Ayush-07-cmd&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Ayush-Oops-07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
