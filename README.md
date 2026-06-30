@@ -172,7 +172,7 @@ Hands-on cloud deployment internship focused on AWS EC2 infrastructure for an At
 
 | Recognition | Details |
 |---|---|
-| Academic Standing | SGPA 8.60 / CGPA 7.95 in BCA, C.V. Raman Global University |
+| Academic Standing | SGPA 8.60 / CGPA 8.01 in BCA, C.V. Raman Global University |
 | Postgraduate Admission | Pursuing MCA at Graphic Era Deemed to be University, Dehradun |
 | Dual Internships | Completed two cloud-focused internships in 2025 (AICTE+Edunet, Pinnacle Labs) |
 | Live Deployments | Shipped a publicly accessible Streamlit AI application |
