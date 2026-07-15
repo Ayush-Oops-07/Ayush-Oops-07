@@ -1,0 +1,18 @@
+# Source photos — private, not for public repo
+source-photo.jpg
+ayush.jpg
+Passport_Size_Photo.jpg
+*.jpg
+*.jpeg
+
+# Intermediate processed file
+source-prepped.png
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# OS
+.DS_Store
+Thumbs.db
